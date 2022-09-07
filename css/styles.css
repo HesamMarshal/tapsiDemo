@@ -197,7 +197,20 @@ h2 {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    /* align-items: center; */
     margin-bottom: 2rem;
+    /* border: 1px solid blue; */
+}
+
+.plan__name {
+    /* border: 1px solid blue; */
+
+}
+
+.plan__off {
+    /* border: 1px solid blue; */
+    margin-top: initial;
+
 }
 
 .plan__price {
