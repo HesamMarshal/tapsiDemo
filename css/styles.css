@@ -245,11 +245,11 @@ h2 {
 }
 
 .plan--popular:hover {
-    transform: scale(1.15);
+    /* transform: scale(1.15); */
 }
 
 .plan:hover {
-    scale: 1.05;
+    /* scale: 1.05; */
 }
 
 @media screen and (min-width:1024px) {
