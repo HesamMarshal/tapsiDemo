@@ -77,6 +77,10 @@ h2 {
     font-size: 1.4rem;
 }
 
+.btn:hover {
+    box-shadow: 0 0 20px 10px rgba(0, 0, 0, .06);
+}
+
 .btn--primary {
     background-color: var(--color-primary);
     color: var(--color-white);
@@ -462,6 +466,7 @@ textarea {
     font-size: 1.2rem;
     color: #333;
     font-family: "iranYekan";
+    text-align: center;
 }
 
 /* ICONS */
