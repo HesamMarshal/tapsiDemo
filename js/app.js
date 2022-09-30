@@ -19,7 +19,6 @@ tabs.forEach((tab) => {
         console.log(`#${tab.dataset.tabTarget}`);
         console.log(targetTabContent);
 
-
         // add new active class
         tab.classList.add('active');
         targetTabContent.classList.add('active');
